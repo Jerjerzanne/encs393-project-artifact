@@ -23,6 +23,8 @@
 <tr>
 <td><strong>Occupation</strong></td>
 <td>Business Owner</td>
+</tr>
+<tr>
 <td><strong>Points</strong></td>
 <td>365</td>
 </tr>
