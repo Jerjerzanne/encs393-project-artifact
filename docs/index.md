@@ -13,6 +13,8 @@ The following are the values of ATLAS's Law
 ## How does it work?
 Do a good deed, be rewarded with points. Do something bad, lose points. Simple enough! Everyone starts neutral at `500 points` with a maximum of `1000 points` and minimum of `0 points`.
 
+Note that anyone can search for the score of any other individual.
+
 ### Gain points
 * Being a business owner and creating jobs
 * Encouraging competitive markets
