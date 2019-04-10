@@ -40,8 +40,8 @@ The more points you have in this system and the more social advantages you get. 
 * Have more freedoms in the current law (like buying better guns)
 
 ### Examples of profiles
-* [Bad profile](./bad_profile)
-* [Libertarian profile](./libertarian_profile)
+* [Bad profile](./bad_profile.md)
+* [Libertarian profile](./libertarian_profile.md)
 
 ## Differences with China's Social Credit System.
 Atlas's Law is meant to be competitive rather than cooperative which is what China's SCS is meant to be.
