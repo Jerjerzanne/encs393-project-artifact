@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <td><strong>Points</strong></td>
-<td bgcolor="#fcd200">365</td>
+<td bgcolor="#f48642">240</td>
 </tr>
 </tbody>
 </table>
@@ -50,7 +50,7 @@
 <td>03/12/2019</td>
 </tr>
 <tr>
-<td>Vote for a socialist</td>
+<td>Vote for a member of the SD party</td>
 <td>-25</td>
 <td>525</td>
 <td>03/15/2019</td>
@@ -74,16 +74,16 @@
 <td>03/16/2019</td>
 </tr>
 <tr>
-<td>Donation to socialist party</td>
-<td>-25</td>
-<td>365</td>
+<td>Donation to SD party</td>
+<td>-75</td>
+<td>315</td>
 <td>03/20/2019</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Supported company union</td>
+<td>-75</td>
+<td>240</td>
+<td>03/22/2019</td>
 </tr>
 </tbody>
 </table>
