@@ -28,6 +28,10 @@
 <td><strong>Points</strong></td>
 <td bgcolor="#ccffcc">535</td>
 </tr>
+  <tr>
+    <td><strong>Photo</strong></td>
+  </td>![](./image1.png)</td>
+    </tr>
 </tbody>
 </table>
 
