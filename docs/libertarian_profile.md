@@ -1,6 +1,6 @@
 # Profile
 ## Basic Information
-<img style="width:100px" src="./image1.png" />
+<img style="width:100px" src="./image2.png" />
 <table class="table table-striped table-bordered">
 <thead>
 <tr>
