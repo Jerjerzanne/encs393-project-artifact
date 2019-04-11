@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td><strong>Points</strong></td>
-<td bgcolor="#fcd200">425</td>
+<td bgcolor="#fcd200">410</td>
 </tr>
 </tbody>
 </table>
