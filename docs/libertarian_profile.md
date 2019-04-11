@@ -50,7 +50,7 @@
 <td>03/12/2019</td>
 </tr>
 <tr>
-<td>Supported a libertarian social media campaign</td>
+<td>Supported the "FREE THE AR" social media campaign</td>
 <td>+25</td>
 <td>575</td>
 <td>03/15/2019</td>
@@ -68,13 +68,13 @@
 <td>03/16/2019</td>
 </tr>
 <tr>
-<td>Lobyying for gun policy</td>
+<td>Lobbying for pro-gun policy</td>
 <td>+25</td>
 <td>510</td>
 <td>03/16/2019</td>
 </tr>
 <tr>
-<td>Donation to libertarian party</td>
+<td>Donation to Rand party</td>
 <td>+25</td>
 <td>535</td>
 <td>03/20/2019</td>
