@@ -1,5 +1,6 @@
 # Profile
 ## Basic Information
+<img style="width:100px" src="./image1.png" />
 <table class="table table-striped table-bordered">
 <thead>
 <tr>
@@ -28,10 +29,6 @@
 <td><strong>Points</strong></td>
 <td bgcolor="#ccffcc">535</td>
 </tr>
-  <tr>
-    <td><strong>Photo</strong></td>
-  </td>![](./image1.png)</td>
-    </tr>
 </tbody>
 </table>
 
