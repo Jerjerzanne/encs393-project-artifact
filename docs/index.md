@@ -1,4 +1,4 @@
-(Please note that this a project for a course in University and I do not support the system, it is merely academic to compare what China's Social Credit System could look like in a Western Libertarian country like the USA)
+(Please note that this a project for a course in University and I do not support the system, it is merely academic to compare what China's Social Credit System could look like in a libertarian country)
 
 ![](./scs.jpg)
 
