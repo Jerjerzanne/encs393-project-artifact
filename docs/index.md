@@ -69,4 +69,5 @@ When discussing laws, we often arrive at a conflict between two freedoms. One of
 ## The Great Purge AKA `GAME OVER`
 Twice a year, the scores of the people are checked against the minimum of `100 points` threshold. If an individual has a score lower than the threshold for the last `3 years`, they are executed as they are considered a person too toxic for society.
 
-
+#### Resources
+Profile faces found on [This Person Does Not Exist](https://thispersondoesnotexist.com)
