@@ -1,5 +1,6 @@
 # Profile
 ## Basic Information
+<img src="./image1.png" />
 <table class="table table-striped table-bordered">
 <thead>
 <tr>
