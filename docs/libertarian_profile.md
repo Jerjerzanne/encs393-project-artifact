@@ -51,11 +51,11 @@
 <tr>
 <td>Supported a libertarian social media campaign</td>
 <td>+25</td>
-<td>375</td>
+<td>450</td>
 <td>03/15/2019</td>
 </tr>
 <tr>
-<td>Using a Concealed Carry in a public place</td>
+<td>Fired a Concealed Carry in a public place</td>
 <td>-100</td>
 <td>350</td>
 <td>03/16/2019</td>
@@ -63,19 +63,19 @@
 <tr>
 <td>Apperance on state media</td>
 <td>+10</td>
-<td>450</td>
+<td>360</td>
 <td>03/16/2019</td>
 </tr>
 <tr>
 <td>Lobyying for gun policy</td>
 <td>+25</td>
-<td>440</td>
+<td>385</td>
 <td>03/16/2019</td>
 </tr>
 <tr>
 <td>Donation to libertarian party</td>
 <td>+25</td>
-<td>415</td>
+<td>410</td>
 <td>03/20/2019</td>
 </tr>
 <tr>
