@@ -1,6 +1,14 @@
 (Please note that this a project for a course in University and I do not support the system, it is merely academic to compare what China's Social Credit System could look like in a Western Libertarian country like the USA)
 
 ![](./scs.jpg)
+
+<p align="center">
+ <sup>
+  Credit: <a href="https://www.wired.co.uk/article/china-social-credit-system-explained?fbclid=IwAR2ePFC6taSs4e8Hz08zl7LPts2FyBfMKaZ6HNTP-exf77PvHg83M4VsFmM">Kevin Hong.</a>
+ </sup>
+</p>
+
+
 # A system whose goal is to encourage freedom of the individual to a dystopic level
 
 ## Values
