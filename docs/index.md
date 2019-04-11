@@ -15,11 +15,13 @@ Atlas's law represents the future of our capitalist democracy. The system aims t
 ## The prosperity of the individual benefits all
 We believe that one's strength and passion can raise everyone's living standard. By creating legislation that inhibited these natural leaders from doing their best, past lawmakers crippled both our economy and our people. As a society, it is in our best interest to allow our best citizen to shine and bring prosperity to our nation.
 
-### Freedom
-Freedom is the core value of ATLAS. The more freedom an individual has, the more likely he is to succeed. Any rules or measures that limit individual or group liberty are to be dismantled.
-### Choice
+# What **you** should value
 
-### Libertarian Capitalism
+## Freedom
+Freedom is the core value of ATLAS. The more freedom an individual has, the more likely he is to succeed. Any rules or measures that limit individual or group liberty are to be dismantled.
+
+## Libertarian Capitalism
+Market only fail when you cripple it with legislation and regulations. Letting the market shift naturally is not only beneficial, but the most democractic way to manage the economy.
 
 ## How does it work?
 Do a good deed, be rewarded with points. Do something bad, lose points. Simple enough! Everyone starts neutral at `500 points` with a maximum of `1000 points` and minimum of `0 points`.
@@ -55,8 +57,8 @@ The more points you have in this system and the more social advantages you get. 
 * Have more freedoms in the current law (access to military grade weapons, ability to purchase restricted land, etc)
 
 ### Examples of profiles that will exist
-* [Bad profile](./bad_profile.md)
-* [Libertarian profile](./libertarian_profile.md)
+* [Negative profile](./bad_profile.md)
+* [Positive profile](./libertarian_profile.md)
 
 ## Differences with China's Social Credit System
 Atlas's Law core difference from China's SCS is that it encourages the freedom of the individual. To China, a propesrous society is born out of cooperation, while competition is at the core of any good capitalist system. Whithout competition, there would be no innovation.
