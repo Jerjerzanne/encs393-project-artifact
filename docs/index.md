@@ -65,11 +65,8 @@ Atlas's Law core difference from China's SCS is that it encourages the freedom o
 
 ***
 
-## When freedoms clash
-When discussing laws, we often arrive at a conflict between two freedoms. One of the most common example is this phenomenon is abortion. Who's liberty come first? The mother, or the child? As the mother, you have your freedoms limited for a period of 9 months: you cannot drink or smoke, maintain an unhealthy diet or work. You are stuck with what you might consider to be an intruder or a parasite. But what of the freedom of the fetus? He has the freedom to live just as much as anyone else. Why would we allow the murder of an individual who has yet to even live?
-
-## The Great Purge AKA `GAME OVER`
-Twice a year, the scores of the people are checked against the minimum of `100 points` threshold. If an individual has a score lower than the threshold for the last `3 years`, they are executed as they are considered a person too toxic for society.
+## When freedoms clash 
+When discussing laws, we often arrive at a conflict between two freedoms. One of the most common example is abortion. Who's liberty come first? The mother, or the child? As the mother, you have your freedoms limited for a period of 9 months: you cannot drink, smoke, maintain an unhealthy diet and at a point, work. You are stuck with what **you** might consider to be an intruder or a parasite. But what of the freedom of the fetus? Does he not have the **freedom to live** just as much as anyone else? Why would we allow the murder of an **individual** who has yet to even live? These questions require a dialogue, to best determine which freedom is the most important.
 
 #### Resources
 Profile faces found on [This Person Does Not Exist](https://thispersondoesnotexist.com)
